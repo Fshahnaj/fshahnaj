@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Fujaila Shahnaj</strong></h1>
-<h3 align="center">Data Analyst • BI Developer • ML Engineer (Healthcare & Product Analytics)</h3>
+<h3 align="center">Data/Analytics Engineer  • Data Analyst • BI Developer • ML Engineer (Healthcare & Product Analytics)</h3>
 
 <p align="center">
  🎓 MS Computer Science @ Clemson University (GPA 3.87) <br>

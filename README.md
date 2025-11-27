@@ -5,7 +5,30 @@
  🎓 MS Computer Science @ Clemson University (GPA 3.87) <br>
  📍 Raleigh–Durham–Cary–RTP (NC) <br>
  💡 Specializing in Healthcare Analytics, ML Pipelines, BI Systems & Data Engineering
+<p align="center">
+
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Data Engineering / Big Data -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-D3402A?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- BI Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+  <!-- Python Analytics & ML -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
 </p>
+
 
 <hr>
 

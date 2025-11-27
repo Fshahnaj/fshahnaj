@@ -107,7 +107,7 @@ AWS (S3, Glue, Redshift), EC2, IAM
 
 <p>
 📧 <strong>Email:</strong> <a href="mailto:shahnajfujaila@gmail.com">shahnajfujaila@gmail.com</a><br>
-🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fujaila-shahnaj-117a6b122/" target="_blank">linkedin.com/in/fujaila-shahnaj</a><br>
+🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fujaila-shahnaj-117a6b122/" target="_blank">linkedin.com/Fujaila-Shahnaj</a><br>
 🌐 <strong>Portfolio:</strong> <a href="https://fshahnaj.github.io" target="_blank">https://fshahnaj.github.io</a><br>
 </p>
 

@@ -28,32 +28,34 @@ I thrive in turning messy real-world datasets into <strong>clean, validated, exp
 
 <hr>
 
+<ul>
+  <li>Built ML pipelines analyzing <strong>368K+ records</strong></li>
+  <li>Designed clinical risk prediction model (<strong>ROC-AUC: 0.79</strong>)</li>
+  <li>Delivered Power BI dashboards for <strong>senior leadership decision-making</strong></li>
+  <li>dbt + DuckDB star-schema modeling for healthcare data</li>
+  <li>NLP modeling with BERT & RoBERTa (F1: 0.84)</li>
+</ul>
+
+---
+
 <h2>📊 Featured Projects</h2>
 
-<!-- PROJECT GRID -->
-<div align="center">
-  <table style="border-spacing: 18px;">
-    <tr>
-      <td align="center" width="330" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
-        <h3>🩺 CardioInsight-AI</h3>
-        <p>End-to-end healthcare analytics platform: HIPAA De-ID → dbt → ML → Power BI</p>
-        <p><strong>ROC-AUC: 0.79</strong></p>
-        <a href="https://app.powerbi.com/groups/me/reports/6cfed432-7813-4abe-ad2c-dda06c516021/7fcc96f055c14681b2cc?experience=power-bi" 
-           target="_blank" style="font-weight: bold;">📈 Live Dashboard</a><br>
-        <a href="https://github.com/Fshahnaj/CardioInsight-AI" target="_blank">📂 GitHub Repo</a>
-      </td>
+### 🔹 <strong>CardioInsight-AI — Healthcare Analytics Platform</strong>
+End-to-end cardiovascular risk analytics system  
+— HIPAA-style de-ID → dbt warehouse → ML → Power BI clinical dashboard  
+ROC-AUC: **0.79**  
+<br>
+<a href="[https://your-live-dashboard-link.com](https://app.powerbi.com/groups/me/reports/6cfed432-7813-4abe-ad2c-dda06c516021/7fcc96f055c14681b2cc?experience=power-bi)" target="_blank">📈 Live Power BI Dashboard</a> • 
+<a href="https://github.com/Fshahnaj/CardioInsight-AI" target="_blank">📂 GithubLink</a>
 
-      <td align="center" width="330" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
-        <h3>💬 Product Hunt NLP Insights</h3>
-        <p>BERT/RoBERTa pipeline analyzing 368K+ community feedback records</p>
-        <p><strong>F1 Score: 0.84</strong></p>
-        <a href="#" style="font-weight: bold;">📘 Coming Soon</a>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<hr>
+### 🔹 <strong>Product Hunt Community Insights (368K+ records)</strong>
+NLP pipeline using BERT/RoBERTa to classify user complaints, praise, and feature requests  
+F1 Score: **0.84**
+<a href="#" style="font-weight: bold;">📘 Coming Soon</a>
+
+---
 
 <h2>🛠️ Technical Skills</h2>
 
@@ -76,7 +78,7 @@ dbt (models, tests, documentation), ETL/ELT, Dimensional Modeling
 DuckDB, MySQL, Oracle, Spark
 
 ### 📈 BI & Visualization  
-Power BI (DAX, Power Query M, Star Schema, RLS), Tableau, Matplotlib, Seaborn
+Power BI (DAX, M, Star Schema, RLS), Tableau, Matplotlib, Seaborn
 
 ### ☁️ Cloud  
 AWS (S3, Glue, Redshift), EC2, IAM
@@ -84,42 +86,42 @@ AWS (S3, Glue, Redshift), EC2, IAM
 </td></tr>
 </table>
 
-<hr>
+---
 
 <h2>💼 Experience</h2>
 
 <strong>Research Assistant — HAIE Lab | Clemson University</strong><br>
 • Analyzed 368K+ Product Hunt comments using ML/NLP  
-• Automated pipelines reducing processing time by 60%  
-• Built BERT multi-label classifier (F1: 0.84)  
+• Built automated data pipelines (reduced processing time 60%)  
+• Developed BERT multi-label classifier (F1: 0.84)  
 <br><br>
 
-<strong>Graduate Assistant — Data Analytics | Clemson Graduate School</strong><br>
-• Designed enterprise Power BI dashboards with RLS  
-• Automated dataset refresh and implemented governed data models  
-• Developed analytics for VPs, Deans, and directors  
+<strong>Graduate Assistant — Data Analytics | Clemson Graduate School</strong>  
+• Designed enterprise Power BI dashboards  
+• Implemented RLS and automated refresh schedules  
+• Supported VPs/Deans with KPI tracking  
 <br><br>
 
-<strong>Data Science Intern — Data Visualization Lab | Clemson Library</strong><br>
+<strong>Data Science Intern — Data Visualization Lab, Clemson Library</strong>  
 • Built forecasting models (85% accuracy)  
-• Created Tableau/Power BI dashboards for operational efficiency  
-• Performed ETL on 50K+ multi-source records  
+• Created operational dashboards (Tableau/Power BI)  
+• ETL across 50K+ records  
 <br><br>
 
-<strong>Senior Lecturer — PCIU (Study Leave)</strong><br>
+<strong>Senior Lecturer — PCIU (Study Leave)</strong>  
 • Taught DBMS, DS, Algorithms  
-• Supervised 10+ ML/AI student research projects  
+• Supervised ML/AI research projects  
 
-<hr>
+---
 
 <h2>📬 Contact</h2>
 
 <p>
 📧 <strong>Email:</strong> <a href="mailto:shahnajfujaila@gmail.com">shahnajfujaila@gmail.com</a><br>
-🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fujaila-shahnaj-117a6b122/" target="_blank">linkedin.com/Fujaila-Shahnaj</a><br>
+🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/fujaila-shahnaj-clemson/" target="_blank">linkedin.com/Fujaila-Shahnaj</a><br>
 🌐 <strong>Portfolio:</strong> <a href="https://fshahnaj.github.io" target="_blank">https://fshahnaj.github.io</a><br>
 </p>
 
-<hr>
+---
 
 <h2 align="center">⭐ Thanks for visiting! ⭐</h2>

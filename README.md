@@ -34,8 +34,9 @@ End-to-end cardiovascular risk analytics system
 — HIPAA-style de-ID → dbt warehouse → ML → Power BI clinical dashboard  
 ROC-AUC: **0.79**  
 <br>
-<a href="https://your-live-dashboard-link.com" target="_blank">📈 Live Power BI Dashboard</a> • 
-<a href="https://github.com/yourrepo/yourproject" target="_blank">📂 Source Code</a>
+<a href="https://app.powerbi.com/groups/me/reports/6cfed432-7813-4abe-ad2c-dda06c516021/7fcc96f055c14681b2cc?experience=power-bi" target="_blank">📈 Live Power BI Dashboard</a> • 
+<a href="https://github.com/Fshahnaj/CardioInsight-AI" target="_blank">📂 githublink</a>
+
 
 ---
 

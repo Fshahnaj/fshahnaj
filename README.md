@@ -3,7 +3,7 @@
 
 <p align="center">
  🎓 MS Computer Science @ Clemson University (GPA 3.87) <br>
- 📍 Raleigh–Durham–Cary (NC) <br>
+ 📍 Raleigh–Durham–Cary–RTP (NC) <br>
  💡 Specializing in Healthcare Analytics, ML Pipelines & BI Systems
 </p>
 
